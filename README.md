@@ -1,4 +1,4 @@
-#Ever felt annoyed by multiple php versions? 
+# Ever felt annoyed by multiple php versions? 
 
 Switch 'em easily with powerful `brew-php-switcher` tool and this oh-my-zsh plugin 
 
