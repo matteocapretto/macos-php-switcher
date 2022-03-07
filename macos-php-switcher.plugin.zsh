@@ -5,7 +5,7 @@ switch-php() {
 
         if [ "PHP $targetVersion" != "$currentVersion" ]; then
             echo "Switching to $targetVersion"
-            brew-php-switcher $targetVersion
+            brew-php-switcher $targetVersion -s
         fi
     fi
 }
